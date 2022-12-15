@@ -3,6 +3,7 @@ package org.example;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
+
 public class RunningSum {
     public static int[] runningSum(int[] nums) {
 
