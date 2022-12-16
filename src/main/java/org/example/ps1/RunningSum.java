@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ps1;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
